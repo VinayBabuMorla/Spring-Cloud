@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ribbon-time-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mvinay
+Implementation-Vendor-Id: io.schultz.dustin
+Build-Jdk: 1.8.0_77
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ribbon-time-service
+Created-By: Maven Integration for Eclipse
+
